@@ -92,7 +92,7 @@ manager*:
 
 ## Deprecations
 
-The following options are now marked deprecated and will be removed from `master` branch in a future
+The following options are now marked deprecated and will be removed from `main` branch in a future
 release after the Nvim 0.10 release. Please, if you have any concerns, raise an issue and let's talk
 about it.
 
