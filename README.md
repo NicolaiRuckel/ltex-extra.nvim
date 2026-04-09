@@ -1,6 +1,7 @@
 <!-- LTeX: language=en-US -->
-<div align="center">
-<h6>🚧 This plugin will be rewritten, I'll do my best to maintain the specs but expect some changes</h6>
+**This is a fork of [Leo Barreiroi's ltex_extra.nvim plugin](https://github.com/barreiroleo/ltex_extra.nvim) because it seems to be
+abondoned.**
+**The `main` branch is based on his `dev` branch.**
 
 # LTeX_extra.nvim
 
