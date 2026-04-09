@@ -7,7 +7,7 @@ localtest:
 	nvim --headless -c "PlenaryBustedDirectory test/"
 
 locallint:
-	~/.local/share/nvim/mason/bin/selene --display-style=quiet .
+	selene --display-style=quiet .
 
 test:
 	echo "===> Testing"
